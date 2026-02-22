@@ -1,0 +1,56 @@
+{
+    "contentType": "collection",
+    "contentId": "motd-default-collection",
+    "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+    "contentItems": [
+      {
+        "contentType": "content-item",
+        "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+        "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+        "contentFields": {
+          "body": {
+            "en": "Looking for more?"
+          },
+          "entryType": "Website",
+          "image": [
+            {
+              "width": 1920,
+              "height": 1080,
+              "url": "https://i.imgur.com/n2rMY92.png"
+            }
+          ],
+          "tabTitleOverride": "Reload",
+          "tileImage": [
+            {
+              "width": 1024,
+              "height": 512,
+              "url": "https://i.imgur.com/n2rMY92.png"
+            }
+          ],
+          "title": {
+            "ar": "مرحبًا بك في Reload!",
+            "en": "Welcome to Reload!",
+            "de": "Willkommen bei Reload!",
+            "es": "¡Bienvenidos a Reload!",
+            "es-419": "¡Bienvenidos a Reload!",
+            "fr": "Bienvenue sur Reload !",
+            "it": "Benvenuto in Reload!",
+            "ja": "Reloadへようこそ！",
+            "ko": "Reload에 오신 것을 환영합니다!",
+            "pl": "Witaj w Reloadze!",
+            "pt-BR": "Bem-vindo ao Reload!",
+            "ru": "Добро пожаловать в Reload!",
+            "tr": "Reload'a Hoş Geldiniz!"
+          },
+          "videoAutoplay": true,
+          "videoLoop": true,
+          "videoMute": true,
+          "videoStreamingEnabled": false,
+          "websiteButtonText": "Click here!",
+          "websiteURL": "https://github.com/Jxko-ode/Jxko-ogfn-Tournament-gs"
+        },
+        "contentHash": "projectReloadContentHash1337",
+        "contentSchemaName": "MotdWebsiteNewsWithVideo"
+        }
+    ]
+}
